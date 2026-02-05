@@ -12,13 +12,15 @@
 ![fibCode](files/fibCode.png)
 
 * Example output: Fib(10)
+
+
 ![fibExample](files/fib(10).png)
 
 ### Timer:
 * A simple timer to track and output the runtime after each iteration
 ![timer](files/timer.png)
 
-### Plotting
+### Plotting:
 * We capture the timing data from the ```timer``` function and store it in ```timings``` dict.
 * Then write data out to a csv
 * The csv file is passed to ```plot.py``` which graphs the data using matplotlib and saves as a png 
