@@ -23,5 +23,5 @@
 * Then write data out to a csv
 * The csv file is passed to ```plot.py``` which graphs the data using matplotlib and saves as a png 
 ```final_plot.png```.
-* The X-axis representions the ```repititons``` while the Y-axis shows the total runtime.
+* The X-axis represents the ```repititons``` while the Y-axis shows the total runtime.
 ![finalPlot](/final_plot.png)
